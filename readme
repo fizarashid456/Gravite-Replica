@@ -1,0 +1,34 @@
+# Gravité — Design Supremacy
+
+Official website for Gravité, a strategic digital agency.  
+Live demo: [https://fizarashid456.github.io/Gravite-Replica/](https://fizarashid456.github.io/Gravite-Replica/)
+
+## About
+
+Dark‑themed, responsive agency landing page.  
+Built to showcase real work, real client testimonials, and actual contact details (no placeholders).  
+Includes smooth scroll animations, glassmorphism navbar, and a floating coin hero.
+
+## Features
+
+- Fully responsive (mobile, tablet, desktop)
+- Fixed glass‑style navbar with hamburger menu on mobile
+- Scroll‑triggered fade‑up animations (Intersection Observer)
+- Floating coin in hero section (CSS animation)
+- Realistic insights section (no generic AI blog titles)
+- Testimonial with actual CEO photo and name
+- WhatsApp chat button + back to top button
+- SVG icons, Google Fonts (Inter + Playfair Display)
+
+## Tech 
+
+- HTML5
+- CSS3 (Grid, Flexbox, custom keyframes, media queries)
+- Vanilla JavaScript (no frameworks)
+- GitHub Pages for hosting
+
+## Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/fizarashid456/Gravite-Replica.git
